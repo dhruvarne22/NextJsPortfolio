@@ -117,7 +117,7 @@ export const navItems = [
     },
     {
       quote:
-        "I am incredibly impressed by Dhruv's ability to turn complex ideas into functional and user-friendly solutions. From the initial consultation to the delivery of our app, he showed immense creativity, professionalism, and reliability. He went above and beyond to suggest innovative features we hadn't considered, adding significant value to the project. Dhruv is not just a developer; he's a problem solver who cares deeply about his client's success.",
+        "I am incredibly impressed by Dhruv&apos;s ability to turn complex ideas into functional and user-friendly solutions. From the initial consultation to the delivery of our app, he showed immense creativity, professionalism, and reliability. He went above and beyond to suggest innovative features we hadn't considered, adding significant value to the project. Dhruv is not just a developer; he&apos;s a problem solver who cares deeply about his client&apos;s success.",
       name: "Sunil Pandit",
       title: "Client From Maharashtra",
     },
